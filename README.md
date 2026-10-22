@@ -8,7 +8,7 @@ I design and build interfaces, from product workflows to the components that hol
 
 ## Selected work
 
-- **[Marvin](https://marvin.hi-3b5.workers.dev)** — A drone fleet management prototype connecting aircraft, maintenance, pilots and flight records. Try the interactive demo on a desktop. All operational data is synthetic.
+- **[Marvin](https://github.com/nicolas-m-design/marvin-showcase)** — A drone fleet management prototype connecting aircraft, maintenance, pilots and flight records. Try the interactive demo on a desktop. All operational data is synthetic.
 - **[Factory Design System](https://github.com/nicolas-m-design/factory-design-system)** — A React design system built from shared tokens, with component states, usage guidance and accessibility checks.
 - **[Codex UX Skills](https://github.com/nicolas-m-design/codex-ux-skills)** — Reusable reviews for forms, product emails, design systems and web accessibility.
 - **[Max Coach](https://github.com/nicolas-m-design/max-coach)** — An endurance coaching experiment that brings activity and readiness data into rolling training plans delivered through Telegram. Based on [Claude Coach](https://github.com/felixrieseberg/claude-coach).
